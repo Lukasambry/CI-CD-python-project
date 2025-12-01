@@ -268,6 +268,7 @@ jobs:
       - name: dependencies
         run: |
           python -m pip install --upgrade pip
+          pip install -r requirements.txt
           pip install flake8 pytest
 
       - name: flake8
