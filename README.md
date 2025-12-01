@@ -14,7 +14,15 @@
 
 ## 2. Captures d'écran
 
-# A remplir
+### 2.1 Capture d'écran du workflow CI réussi
+![screenshot](./CI_checked.png)
+
+### 2.2 Capture d'écran du workflow CD réussi
+![screenshot](./CD_checked.png)
+
+### 2.3 Capture d'écran de l'image Docker sur Docker Hub
+![screenshot](./Docker_hub_image.png)
+
 
 ---
 
